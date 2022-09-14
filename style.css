@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+*{
+    font-family: IBM Plex Mono;
+}
+
+body{
+    background: url(./image9/capivarias.jpg);
+    background-size: cover;
+    color: white;
+}
+
+#entrada{
+    margin: 10px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#saida{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 25px;
+    color: white;
+}
+
+strong{
+    color: red;
+}
